@@ -8,6 +8,7 @@ public class Human01 {
         age = 20;
     }
 
+    //引数2つのコンストラクタ
     public Human01(String name, int age) {
         this.name = name;
         this.age = age;
